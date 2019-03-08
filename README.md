@@ -9,6 +9,7 @@ JavaScript bindings fo let Node execute the Selenium Webdriver.
 
 1. Clone the repo
 1. npm install
+1. Push source to scratch org 
 1. Update the username/password in the various demo JavaScript files
 
 ## Executing
