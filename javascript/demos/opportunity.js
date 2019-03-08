@@ -10,7 +10,6 @@ var driver = new webdriver.Builder()
 
 var instance='ldnscall2019-dev-ed.lightning.force.com';
 
-driver.sleep(20000).then(_ => console.log('start recording'));
 login.login(driver, 'keir.bowden@ldnscall2019.trn', '***********');
 
 // Wait for the new opportunity page/button to load
